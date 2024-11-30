@@ -3,6 +3,19 @@ Figma Design Clone
 📌 Project Overview
 This repository showcases a clone of a design created using Figma. The purpose of this project is to replicate the design accurately using HTML, CSS, and JavaScript (or the technologies you've used). It demonstrates my ability to translate Figma designs into fully functional and responsive web pages.
 
+
+##brief document detailing: 
+The time taken to complete the task:  basically it will took only a few hours to clone the figma design. 
+
+##Tools and technologies used:
+i have used the html and css technology.
+
+##AI plugins/tools used and their impact:
+i have used the builder.io , function 12 and the figma to html plugin also well familar with the others plugin also.
+
+
+
+
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 Design Tool: Figma (for reference)
